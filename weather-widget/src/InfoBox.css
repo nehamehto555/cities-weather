@@ -1,0 +1,11 @@
+.InfoBox{
+ text-align: center;   
+ /* background-color: rgb(255, 240, 221); */
+ /* text-shadow: rgb(248, 184, 161); */
+}
+
+.cardContainer{
+    display: flex;
+    justify-content: center;
+   
+}
